@@ -17,7 +17,7 @@ To build OpenParsec:
 --------------------
 
 On Linux:
-- Install premake or grab the premake4 binary and put it somewhere in your $PATH (http://industriousone.com/premake/download)
+- Install premake or grab the premake4 binary and put it somewhere in your $PATH ((https://premake.github.io/))
 - cd into platforms/premake/
 - run: premake4 gmake
 - To build the client: make client
